@@ -30,5 +30,6 @@ sqlparse==0.4.1
 virtualenv==20.4.3
 virtualenv-clone==0.5.4
 whichcraft==0.6.1
+whitenoise
 zope.event==4.5.0
 zope.interface==5.3.0
